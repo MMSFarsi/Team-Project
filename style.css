@@ -1,0 +1,14 @@
+body{
+    margin: 20px;
+}
+
+.hero{
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+.hero-title{
+    font-size: 50px;
+    font-weight: bold;
+
+}
