@@ -3,5 +3,5 @@
 ## Project Name
 Peddy
 
-##  Live Site: 
-https://mmsfarsi.github.io/Team-Project/
+## Demo Site: 
+https://pets-bazar.netlify.app/
